@@ -1,0 +1,4 @@
+C:\kerneldeving\Nuke\nukeclear\x64\Release\nukeclear.vcxproj.MdMergeInputs.cache
+C:\kerneldeving\Nuke\nukeclear\x64\Release\nukeclear.vcxproj.cppwinrt_plat.cache
+C:\kerneldeving\Nuke\nukeclear\x64\Release\nukeclear.vcxproj.cppwinrt_comp.cache
+C:\kerneldeving\Nuke\nukeclear\x64\Release\nukeclear.sys

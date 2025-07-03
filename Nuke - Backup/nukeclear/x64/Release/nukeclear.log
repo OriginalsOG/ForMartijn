@@ -1,0 +1,19 @@
+﻿  Building 'nukeclear' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\nukeclear.inf
+  Stamping [Version] section with DriverVer=07/02/2025,15.28.3.187
+  nukeclear.vcxproj -> C:\kerneldeving\Nuke\nukeclear\x64\Release\nukeclear.sys
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\kerneldeving\Nuke\nukeclear\x64\Release\nukeclear\nukeclear.cat
+  Done Adding Additional Store
+  Successfully signed: C:\kerneldeving\Nuke\nukeclear\x64\Release\nukeclear\nukeclear.cat
+  
