@@ -1,0 +1,6 @@
+﻿  BasixIOCTLusermode.cpp
+C:\kerneldeving\Nuke\BasixIOCTLusermode\Driver.hpp(53,11): warning C4244: 'return': conversion from 'uint64_t' to 'DWORD', possible loss of data
+  (compiling source file 'BasixIOCTLusermode.cpp')
+  
+C:\kerneldeving\Nuke\BasixIOCTLusermode\BasixIOCTLusermode.cpp(10,45): warning C4312: 'type cast': conversion from 'uint32_t' to 'HANDLE' of greater size
+  BasixIOCTLusermode.vcxproj -> C:\kerneldeving\Nuke\BasixIOCTLusermode\x64\Debug\BasixIOCTLusermode.exe
